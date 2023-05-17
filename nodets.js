@@ -1,5 +1,3 @@
-const nodets = require('./.node-ts.json');
-
 module.exports = {
     "env": {
         "browser": true,

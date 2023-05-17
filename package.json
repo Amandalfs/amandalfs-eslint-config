@@ -1,5 +1,5 @@
 {
-  "name": "@amandalfs-eslint-config",
+  "name": "amandalfs-eslint-config",
   "version": "1.0.1",
   "description": "configuracoes do eslint para algumas libs",
   "main": "index.js",
