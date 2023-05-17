@@ -1,0 +1,20 @@
+{
+  "name": "amandalfs-eslint-config",
+  "version": "1.0.0",
+  "description": "configuracoes do eslint para algumas libs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "config",
+    "amandalfs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "eslint": "^8.40.0",
+    "eslint-config-standard": "^17.0.0"
+  }
+}
