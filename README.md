@@ -1,0 +1,1 @@
+# amandalfs-eslint-config
